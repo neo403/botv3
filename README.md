@@ -1,0 +1,2 @@
+FOLLOW JAN PAKE NYA DOANG
+ೋ❀❀ೋ═══[JAEXPLOIT]═══ೋ❀❀ೋ
