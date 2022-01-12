@@ -44,7 +44,7 @@ const timeWib = moment.tz('Asia/Jakarta').format('DD/MM')
 // stickwm
 const Exif = require('./lib/exif');
 const exif = new Exif();
-//ೋ❀❀ೋ═══[JAEXPLOIT]═══ೋ❀❀ೋ//
+//ೋ❀❀ೋ═══[JAEXPLOIT BOTZ2]═══ೋ❀❀ೋ//
 const { downloadMenu, infoMenu, gameMenu, groupMenu, funMenu, wibuMenu, ownerMenu, stickerMenu, otherMenu, rulesBot, islamMenu, sertiMenu, ceritaMenu, makerMenu,dewasaMenu, toolsMenu} = require('./message/help.js')
 const { getBuffer, getGroupAdmins, getRandom, runtime, sleep } = require('./lib/myfunc')
 const { fetchJson, getBase64, kyun, createExif } = require('./lib/fetch')
