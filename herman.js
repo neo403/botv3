@@ -1,4 +1,4 @@
-//ೋ❀❀ೋ═══[JAEXPLOIT]═══ೋ❀❀ೋ//
+//ೋ❀❀ೋ═══[JAEXPLOIT BOTZ2]═══ೋ❀❀ೋ//
 const {
     WAConnection,
 	MessageType,
