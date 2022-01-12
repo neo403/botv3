@@ -438,10 +438,10 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 ❏ LIMIT : *${isPremium ? 'Unlimited' : `${gcount}`}*
 
 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧
-❏ NAMA : *DHA BOTZ*
-❏ API : @6282288265627
+❏ NAMA : *JAEXPLOIT BOTZ*
+❏ API : @6289505478069
 ❏ OWNER : *YUDHA PERDANA*
-❏ API : *@6282W87486762*
+❏ API : *@6289505478069*
 ❏ TOTAL HIT : *${cmhit.length}x HIT*
 ❏ AKTIF : *${runtime(process.uptime())}*
 ❏ BATERAI : *${baterai}%*
