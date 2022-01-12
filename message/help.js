@@ -826,4 +826,4 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 *▢ ${prefix}memeindo*
 *▢ ${prefix}darkjoke*
 
-©𝑪𝒓𝒆𝒂𝒕𝒐𝒓 𝒃𝒚 𝒚𝒖𝒅𝒉𝒂 𝒑𝒆𝒓𝒅𝒂𝒏𝒂`}
+© ℂℛℰᎯᏆᎾℛ ℬᎽ ᎫᎯℰXℙℒᎾℐᏆ🗿ᮢᮡᮣᮁᮀᮂ`}
