@@ -10,14 +10,14 @@ baterai = 'unknown'
 charging = 'unknown'
 
 //nocache
-require('./herman.js')
-nocache('../herman.js', module => console.log(color('[WATCH]', 'yellow'), color(`'${module}'`, 'cyan'), 'File is updated!'))
+require('./jaexploit.js')
+nocache('../jaexploit.js', module => console.log(color('[WATCH]', 'yellow'), color(`'${module}'`, 'cyan'), 'File is updated!'))
 require('./message/group.js')
 nocache('../message/group.js', module => console.log(color('[WATCH]', 'yellow'), color(`'${module}'`, 'yellow'), 'File is updated!'))
 
 const starts = async (herman = new WAConnection()) => {
 	herman.logger.level = 'warn'
-	console.log(color(figlet.textSync('herman', {
+	console.log(color(figlet.textSync('Hacked By Jaexploit', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
@@ -37,7 +37,7 @@ const starts = async (herman = new WAConnection()) => {
 	// Menghubungkan
 	fs.existsSync(`./${setting.sessionName}.json`) && herman.loadAuthInfo(`./${setting.sessionName}.json`)
 	herman.on('connecting', () => {
-		console.log(color('[ Jaexploit ]', 'yellow'), color('PROSES NYAMBUNG...'));
+		console.log(color('[ Awok awok Sc nya ke hack canda bang ]', 'yellow'), color('PROSES NYAMBUNG...'));
 	})
 const spinner = { 
   "interval": 120,
